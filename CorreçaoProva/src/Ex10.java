@@ -44,6 +44,6 @@ public class Ex10 {
 	}
 	
 	public static void main(String[] args) {
-		execute(1699780);
+		execute(169436);
 	}
 }
